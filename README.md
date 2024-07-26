@@ -6,7 +6,7 @@ Welcome to the Hospitality Dataset EDA (Exploratory Data Analysis) repository! T
 2. dim_hotels.csv file contains information about all the hotels in AtliQ hotel chain and their types.
 3. dim_rooms.csv file contains information about the types of rooms in hotels.
 4. fact_aggregated_bookings file contains information about successful bookings and capacity which are related to check in date.
-5. fact_bookings.csv file contains information about revenues and booking platforms which are related to all bookings.
+6. fact_bookings.csv file contains information about revenues and booking platforms which are related to all bookings.
 
 ## Tool -> Jupyter Notebook.
 
