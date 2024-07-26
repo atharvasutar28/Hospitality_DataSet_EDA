@@ -15,7 +15,7 @@ Step 1 -> Merging the dimensions tables with fact tables.
 Step 2 -> Data Cleaning by deleting all the unecessary columns, renaming columns and droping the null values.
 Step 3 -> Displaying the dataset info and dimensions.
 Step 4 -> Extracting important insights from datasets.
-Step 4 -> Data Visualization which helps to uncover trends and patterns.
+Step 5 -> Data Visualization which helps to uncover trends and patterns.
 
 ### Key Performance Indicators
 1. room_class: This column represents to which class[Standard, Elite, Premium, Presidential] particular room type belongs.
